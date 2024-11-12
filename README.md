@@ -3,4 +3,4 @@
 #### My notes
 
 - run `go run filename.go` on CLI for dev mode
-- baru sampe video ke 40
+- baru sampe video ke 55
